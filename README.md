@@ -6,4 +6,4 @@ In this script we try different techniques for retrieving a video from a corrupt
 
 The goal is to extract the sub videos from the corrupt one.
 
-We will try different methods and measures to compare the images.
+We will try different methods and measures to compare the images: (histograms, pixelwise difference, SSIM measure 
