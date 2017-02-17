@@ -1,4 +1,4 @@
-# corruptVideo
+# Video recovery
 Repair a corrupt video containing outliers and frames in random order
 
 
